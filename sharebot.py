@@ -4,7 +4,6 @@ import config
 import os
 from telebot import types
 
-admin_id = 1200148091
 bot = telebot.TeleBot(config.token)
 
 
